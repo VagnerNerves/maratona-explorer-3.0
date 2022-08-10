@@ -11,7 +11,7 @@ Diponibilizado o seguindo layout no figma https://www.figma.com/file/lEhWL1qM3SQ
 
 ## Vídeo da implementação
 
-Video
+https://user-images.githubusercontent.com/40831841/184015778-527baffc-bf41-4701-9562-4ce2de10d373.mp4
 
 ## Implementação amais que fiz
 
