@@ -32,7 +32,7 @@ header {
 
 header,
 section,
-footer {
+footer p {
   max-width: 300px;
   margin: 0 auto;
 }
@@ -47,7 +47,8 @@ header h1 span {
   color: #995000;
 }
 
-header p {
+header p,
+footer p {
   font-size: 14px;
   line-height: 16px;
 
@@ -91,4 +92,20 @@ li .details {
   color: rgba(0, 0, 0, 0.6);
   font-size: 14px;
   line-height: 21px;
+}
+
+/* FOOTER */
+footer {
+  background-color: #FED7AA;
+  text-align: center;
+
+  padding: 16px 0px;
+}
+
+footer p {
+  margin-bottom: 12px;
+}
+
+footer p span {
+  font-weight: bold;
 }
